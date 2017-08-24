@@ -6,9 +6,9 @@ namespace Lab1
 	{
 		public double x { get; set;}
 		public double y { get; set;}
-		public Vector2d(double vx, double vy){
-			x = vx;
-			y = vy;
+		public Vector2d(double x, double y){
+			this.x = x;
+			this.y = y;
 		}
 	}
 }
