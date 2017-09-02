@@ -1,0 +1,3 @@
+/home/mathieu_auclair/Desktop/git/Prog3/Lab3/Lab3/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/mathieu_auclair/Desktop/git/Prog3/Lab3/Lab3/bin/Release/Lab3.exe
+/home/mathieu_auclair/Desktop/git/Prog3/Lab3/Lab3/obj/x86/Release/Lab3.exe

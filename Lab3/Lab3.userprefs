@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{E45AD721-FFA2-48E2-ACE1-0E36B25D3365}|Default" StartupItem="Lab3/Lab3.csproj">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab3/Character.cs">
+    <Files>
+      <File FileName="Lab3/Program.cs" Line="6" Column="33" />
+      <File FileName="Lab3/Vector2d.cs" Line="18" Column="4" />
+      <File FileName="Lab3/Weapon.cs" Line="9" Column="25" />
+      <File FileName="Lab3/Sword.cs" Line="7" Column="3" />
+      <File FileName="Lab3/Staff.cs" Line="9" Column="4" />
+      <File FileName="Lab3/Character.cs" Line="35" Column="1" />
+      <File FileName="Lab3/Warrior.cs" Line="7" Column="35" />
+      <File FileName="Lab3/Wizard.cs" Line="8" Column="29" />
+      <File FileName="Lab3/BlackWizard.cs" Line="9" Column="3" />
+      <File FileName="Lab3/WhiteWizard.cs" Line="5" Column="48" />
+      <File FileName="Lab3/Game.cs" Line="16" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

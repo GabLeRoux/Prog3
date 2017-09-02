@@ -1,0 +1,5 @@
+/home/mathieu_auclair/Desktop/git/Prog3/Lab3/Lab3/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/mathieu_auclair/Desktop/git/Prog3/Lab3/Lab3/bin/Debug/Lab3.pdb
+/home/mathieu_auclair/Desktop/git/Prog3/Lab3/Lab3/bin/Debug/Lab3.exe
+/home/mathieu_auclair/Desktop/git/Prog3/Lab3/Lab3/obj/x86/Debug/Lab3.exe
+/home/mathieu_auclair/Desktop/git/Prog3/Lab3/Lab3/obj/x86/Debug/Lab3.pdb
