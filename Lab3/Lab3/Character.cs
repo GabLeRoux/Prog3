@@ -15,7 +15,7 @@ namespace Lab3{
 			this.name = name;
 		}
 
-		public virtual void dealAttack(Character other){
+		public virtual void AttackedBy(Character other){
 			this.health -= other.UsedWeapon.Damage;
 			Console.WriteLine (other.name + " did attack " + this.name + " and " + this.name + " now have " + this.health + " HP");
 		}
