@@ -13,7 +13,8 @@ namespace Lab3{
 				Console.Write (other.name + " has attacked " + this.name + " and ");
 				this.Die ();
 			} else {
-				this.dealAttack (other);
+				Console.WriteLine ("ERROR IN WHITEWIZARD EXEPTION LINE 16");
+				//this.dealAttack(other);
 			}
 		}
 	}
